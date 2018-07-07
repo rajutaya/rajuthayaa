@@ -1,0 +1,29 @@
+I, [2018-06-07T00:53:41.125378 #20540]  INFO -- : Refreshing Gem list
+I, [2018-06-07T00:53:42.686455 #20540]  INFO -- : listening on addr=/home/rajkumar/Rajkumar/Projects/rajuthayaa/shared/sockets/unicorn.sock fd=14
+I, [2018-06-07T00:53:42.686585 #20540]  INFO -- : worker=0 spawning...
+I, [2018-06-07T00:53:42.688110 #20540]  INFO -- : worker=1 spawning...
+I, [2018-06-07T00:53:42.688760 #20556]  INFO -- : worker=0 spawned pid=20556
+I, [2018-06-07T00:53:42.689003 #20556]  INFO -- : worker=0 ready
+I, [2018-06-07T00:53:42.690643 #20540]  INFO -- : master process ready
+I, [2018-06-07T00:53:42.691334 #20559]  INFO -- : worker=1 spawned pid=20559
+I, [2018-06-07T00:53:42.691479 #20559]  INFO -- : worker=1 ready
+I, [2018-06-07T00:54:09.762575 #20540]  INFO -- : reaped #<Process::Status: pid 20556 exit 0> worker=0
+I, [2018-06-07T00:54:09.762825 #20540]  INFO -- : reaped #<Process::Status: pid 20559 exit 0> worker=1
+I, [2018-06-07T00:54:09.763086 #20540]  INFO -- : master complete
+I, [2018-06-07T00:55:20.329353 #20671]  INFO -- : Refreshing Gem list
+I, [2018-06-07T00:55:21.884097 #20671]  INFO -- : unlinking existing socket=/home/rajkumar/Rajkumar/Projects/rajuthayaa/shared/sockets/unicorn.sock
+I, [2018-06-07T00:55:21.884366 #20671]  INFO -- : listening on addr=/home/rajkumar/Rajkumar/Projects/rajuthayaa/shared/sockets/unicorn.sock fd=13
+I, [2018-06-07T00:55:21.884490 #20671]  INFO -- : worker=0 spawning...
+I, [2018-06-07T00:55:21.885967 #20671]  INFO -- : worker=1 spawning...
+I, [2018-06-07T00:55:21.886497 #20688]  INFO -- : worker=0 spawned pid=20688
+I, [2018-06-07T00:55:21.886680 #20688]  INFO -- : worker=0 ready
+I, [2018-06-07T00:55:21.887455 #20671]  INFO -- : master process ready
+I, [2018-06-07T00:55:21.888015 #20691]  INFO -- : worker=1 spawned pid=20691
+I, [2018-06-07T00:55:21.888213 #20691]  INFO -- : worker=1 ready
+I, [2018-06-07T01:06:30.431697 #20671]  INFO -- : SIGWINCH ignored because we're not daemonized
+I, [2018-06-07T01:06:30.514332 #20671]  INFO -- : reaped #<Process::Status: pid 20691 exit 0> worker=1
+I, [2018-06-07T01:06:30.514438 #20671]  INFO -- : reloading config_file=config/unicorn.rb
+I, [2018-06-07T01:06:30.557039 #20671]  INFO -- : Refreshing Gem list
+I, [2018-06-07T01:06:30.559567 #20671]  INFO -- : done reloading config_file=config/unicorn.rb
+I, [2018-06-07T01:06:30.660149 #20671]  INFO -- : reaped #<Process::Status: pid 20688 exit 0> worker=0
+I, [2018-06-07T01:06:30.660417 #20671]  INFO -- : master complete
